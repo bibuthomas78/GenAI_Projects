@@ -9,4 +9,5 @@ langchain_google_genai
 regex
 scikit-learn
 langchain-community
+OpenAI
 langchain_classic
